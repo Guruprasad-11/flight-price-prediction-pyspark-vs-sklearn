@@ -81,6 +81,16 @@ PySpark outperformed the traditional method across all metrics, showcasing effic
 
 ---
 
+## Team Members
+
+This project was developed as part of the *Big Data Analysis* course.
+
+- **M K Guruprasad** *(Myself)*  
+- [**Manda Bala Sumanth**](https://github.com/Sumanth0019)  
+- [**Mudrageda Bhargava Phani Sriram**](https://github.com/Sriram77805)
+
+---
+
 ## Key Takeaways
 
 - PySpark’s Pipeline API simplifies preprocessing and modeling at scale
